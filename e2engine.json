@@ -1,0 +1,22 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/e2engine/cli/releases/download/v0.0.3/e2engine_Windows_x86_64.zip",
+            "bin": [
+                "e2engine_Windows_x86_64/e2engine.exe"
+            ],
+            "hash": "ee4a4a6f5fbd763725af71d85cd42073592e354b4974f841ffafb7232bec7553"
+        },
+        "arm64": {
+            "url": "https://github.com/e2engine/cli/releases/download/v0.0.3/e2engine_Windows_arm64.zip",
+            "bin": [
+                "e2engine_Windows_arm64/e2engine.exe"
+            ],
+            "hash": "0fe4d3a45660636700304686650c972e4bc341bc20537f7cf31a1ea4a8045b40"
+        }
+    },
+    "homepage": "https://github.com/e2engine/cli",
+    "license": "Apache-2.0",
+    "description": "Declarative end-to-end testing and service mocking for distributed systems."
+}
