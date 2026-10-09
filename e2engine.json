@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/e2engine/cli/releases/download/v0.1.0/e2engine_Windows_x86_64.zip",
+            "url": "https://github.com/e2engine/cli/releases/download/v0.1.1/e2engine_Windows_x86_64.zip",
             "bin": [
                 "e2engine_Windows_x86_64/e2engine.exe"
             ],
-            "hash": "339b8c3d2a7940f76ec413bdb242ca09f65b15330930aa43370a638b4911ce33"
+            "hash": "7550a81e5b2286fe7b45f9b3820d874b61be8c6450dee5fa74ee512d9fe9f052"
         },
         "arm64": {
-            "url": "https://github.com/e2engine/cli/releases/download/v0.1.0/e2engine_Windows_arm64.zip",
+            "url": "https://github.com/e2engine/cli/releases/download/v0.1.1/e2engine_Windows_arm64.zip",
             "bin": [
                 "e2engine_Windows_arm64/e2engine.exe"
             ],
-            "hash": "f79c6e9f4e3261b5ecc803870311e27887a39cacdb2fb6d47d84cce5c5536595"
+            "hash": "b4cbdc24f0b76a3a09cb258de9e3a9cf6af8e8b6c8b9f142ffec532e743a82ce"
         }
     },
     "homepage": "https://github.com/e2engine/cli",
